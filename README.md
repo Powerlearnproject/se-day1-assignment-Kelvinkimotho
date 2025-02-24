@@ -15,7 +15,7 @@ Identify and describe at least three key milestones in the evolution of software
   - In the 70 structured Programming was invented which introduced better ways to write and organize code.
   - In 2001 Agile development methodology was introduced making software development more flexible and customer-focused.
   - in 1968 Software Engineering was born where the term was introduced at a conference to solve software development problems.
-    
+
 List and briefly explain the phases of the Software Development Life Cycle.
    - Planning. This is where we try understanding what the software should do.
    - Requirement Analysis involves gathering details about what users need.
